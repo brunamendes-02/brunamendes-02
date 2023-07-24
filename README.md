@@ -1,10 +1,5 @@
 ## Hi there! I'm Bruna Mendes and I work as a full stack developer
-  
-  <div align="start">
-  <a href="https://github.com/brunamendes-02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamendes-02&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
